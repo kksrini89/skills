@@ -1,5 +1,5 @@
 ---
-name: generate-tasks
+name: generate-tasks-from-prd
 description: Generate a detailed, step-by-step Markdown task list from user requirements, feature requests, or existing documentation. Use when the user asks to "generate tasks", "create a task list", "break down this feature into tasks", "plan implementation tasks", or provides a feature request/PRD that needs to be turned into an actionable developer task list. Produces a file at tasks/tasks-[feature-name].md with parent tasks, sub-tasks, relevant files, and progress-tracking checkboxes.
 ---
 
